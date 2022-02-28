@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several occurrences, touching the further proceedings of the Scots with their declared King. Containing these ensuing particulars; viz. I The Parliament of Scotlands new act and declaration to be published throughout the kingdom. II Their declared Kings sailing from Holland with seven Men of War, 500 mariners, and about 140 pieces of ordnance. III The declaration of Van Trump the Dutch admiral, to the King of Scots. IV The bloudy murthering of Mr. Ascram (the Parliament of Englands agent) at Madrid in Spain, the manner thereof, and the Kings proclamation concerning the same. V The Duke of Yorks letter from Jersey, to his mother in France; and the L. Hoptons resolution concerning the Scots.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92989</idno>
+            <idno type="STC">Wing S2785</idno>
+            <idno type="STC">Thomason E603_17</idno>
+            <idno type="STC">ESTC R205836</idno>
+            <idno type="EEBO-CITATION">99865089</idno>
+            <idno type="PROQUEST">99865089</idno>
+            <idno type="VID">165658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165658)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E603[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several occurrences, touching the further proceedings of the Scots with their declared King. Containing these ensuing particulars; viz. I The Parliament of Scotlands new act and declaration to be published throughout the kingdom. II Their declared Kings sailing from Holland with seven Men of War, 500 mariners, and about 140 pieces of ordnance. III The declaration of Van Trump the Dutch admiral, to the King of Scots. IV The bloudy murthering of Mr. Ascram (the Parliament of Englands agent) at Madrid in Spain, the manner thereof, and the Kings proclamation concerning the same. V The Duke of Yorks letter from Jersey, to his mother in France; and the L. Hoptons resolution concerning the Scots.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Scotland. --  Parliament --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165658:1" rendition="simple:additions"/>
+            <p>Several Occurrences, TOUCHING The further Proceedings of the SCOTS with their Declared King.</p>
+            <p>Containing theſe enſuing particulars; <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I <hi>The Parliament of</hi> Scotlands <hi>new Act and Declaration to be publiſhed throughout the Kingdom.</hi>
+               </item>
+               <item>II <hi>Their declared Kings ſailing from</hi> Holland <hi>with ſeven men of War,</hi> 500 <hi>Mariners, and about</hi> 140 <hi>pieces of Ordnance.</hi>
+               </item>
+               <item>III <hi>The Declaration of</hi> Van Trump <hi>the</hi> Dutch <hi>Admi<g ref="char:EOLhyphen"/>ral, to the King of</hi> Scots.</item>
+               <item>IV <hi>The bloudy murthering of Mr.</hi> Aſcram (<hi>the Parlia<g ref="char:EOLhyphen"/>ment of</hi> Englands <hi>Agent) at</hi> Madrid <hi>in</hi> Spain, <hi>the manner thereof, and the Kings Proclamation concerning the ſame.</hi>
+               </item>
+               <item>V <hi>The Duke of</hi> Yorks <hi>Letter from</hi> Jerſey, <hi>to his mother in</hi> France; <hi>and the L.</hi> Hoptons <hi>reſolution concerning the</hi> Scots.</item>
+            </list>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. H.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165658:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:165658:2"/>
+            <head>Severall Occurrences, touching the fur<g ref="char:EOLhyphen"/>ther Proceedings of the SCOTS.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His morning we received Intelli<g ref="char:EOLhyphen"/>gence, that the King of <hi>Scots</hi> em<g ref="char:EOLhyphen"/>barqued himſelf on Sunday the ſixth inſtant, but upon his going aboard, a great ſtorm aroſe (which many conjecture to be ominous) The Convoy that is to guard him, is ſaid to be 7 ſhips of War, carrying in all about 140 Guns, and man'd with about 500 men, which were deſign'd to meet the <hi>East India</hi> fleet, that are now co<g ref="char:EOLhyphen"/>ming to <hi>Holland,</hi> but the Prince of <hi>Orange</hi> prevailed with the States, for them to tranſport him into <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> which otherwiſe might have been retarded; for <hi>Van Trump</hi> (the <hi>Dutch</hi> Admiral) ſeemed unwilling to undertake the Voyage, having other employments; and being ſolicited (by the young King) for accom<g ref="char:EOLhyphen"/>modation and aſſiſtance, he poſitively declared; <hi>That he was a ſworn ſervant to the States of</hi> Holland, <hi>and could
+<pb n="2" facs="tcp:165658:3"/>not act or do any thing, without their permiſſion or grant, and therefore humbly deſired to be excuſed, in not anſwer<g ref="char:EOLhyphen"/>ing him with a return, ſutable to his deſire, &amp;c.</hi> As for the <hi>Scots</hi> proceedings, it is the general talk, and daily diſcours of moſt in theſe parts; but their reſults are kept extream ſecret, as in reference to the making a War with <hi>England:</hi> Some report they will make no war for him, till they ſee how he proves; and whe<g ref="char:EOLhyphen"/>ther he be worth the engaging ſo deeply for or not: but it's more like, till they ſee what forces he can pro<g ref="char:EOLhyphen"/>cure, to make ſome diverſion; by invading you by ſea, in ſeveral places at once. And though you may perhaps think it ſomething improbable, you ſhould be invaded at ſea, and that it will be impoſſible to pro<g ref="char:EOLhyphen"/>vide a Navy, either ſo ſecretly as you ſhould not know it, or ſo great as you ſhall not be able to deal with it; they are of another minde, and give out that they have potent numbers in ſeveral parts, and are not without hope of a port or gariſon, in the Weſt or in <hi>Kent</hi> (ther<g ref="char:EOLhyphen"/>fore look well to them) where a few ſhall land at firſt, and the young titular-Kings party, will flock to them in multitudes; and this (as they ſay) will draw your forces to one place, till they ſhall have opportunity to land more in another; and as ſoon as theſe diſtractions are among you, then the <hi>Scots</hi> (like a ſwarm of Lo<g ref="char:EOLhyphen"/>cuſts) to come in upon you (as one man) to make fertile <hi>England</hi> as miſerable by war, as their own coun<g ref="char:EOLhyphen"/>try is without it: and to the end, that they may ob<g ref="char:EOLhyphen"/>tain the moſt eaſie and facile way, for the carrying on of this deſigne, they have prevailed with General <hi>Wal<g ref="char:EOLhyphen"/>demar</hi> (the King of <hi>Denmark's</hi> brother) to aſſiſt them; alſo General <hi>Carp</hi> and ſome other <hi>German</hi> Command<g ref="char:EOLhyphen"/>ers, have agreed with the Prince, to ſerve him for no<g ref="char:EOLhyphen"/>thing
+<pb n="3" facs="tcp:165658:3"/>in <hi>England,</hi> and that they will have no pay, how long ſoever the war ſhall laſt, provided, that they may make booty of what ever ſhall come in their way: It may very well be doubted, whether their rapinous fingers will be able to diſtinguiſh, between Cavaliers goods, and thoſe of Preſbytery or Sectary (eſpecially if they ſhould be moſt valuable;) and divers of the Duke of <hi>Lorains</hi> men have undertaken the like, who are pretty skilful in this art, only they deſire ſome advance money, which (we hear) the Prince of <hi>Orange</hi> will furniſh them with. This is the evil that threat<g ref="char:EOLhyphen"/>ens you, ſpecial care had therefore need to be taken; 'tis very facile to prevent dangers fore-knowing of them: Therefore begin to act ſtrenuouſly and beware you be not deluded by a <hi>beaten</hi> fawning <hi>Spaniel.</hi>
+            </p>
+            <p>The Lord <hi>Digby's</hi> Secretary is lately arrived here from the Iſle of <hi>Jerſey,</hi> who reports; That the Duke of <hi>York</hi> paſſeth his time very merily in that <hi>Iſland,</hi> and in continuall exerciſe, and deſires to ſee the War be<g ref="char:EOLhyphen"/>gin this Summer, that he might ſerve his brother in the head of the <hi>Scots;</hi> of which his deſire, he hath writ<g ref="char:EOLhyphen"/>ten to the <hi>Queen</hi> in <hi>France,</hi> who was very well pleaſed with it, and accounted it a very honourable deſigne. But Sir <hi>George Cartwright</hi> (the Governour) and the L. <hi>Hopton,</hi> do not like that he ſhould hazard himſelf, and do what in them lies, to alter his minde. And it is fur<g ref="char:EOLhyphen"/>ther reported by the ſaid Secretary, that the Lord <hi>Hopton</hi> will not engage with the <hi>Scots,</hi> who ſaith they are a perfidious people, whoſe hearts harbour nothing but deceit. Their bloudy proceedings againſt <hi>Mon<g ref="char:EOLhyphen"/>troſs, Spotsford, &amp;c.</hi> hath quite turned the tide here, and thoſe Officers deſigned for that ſervice, will not engage with them.</p>
+            <pb n="4" facs="tcp:165658:4"/>
+            <p>By an Expreſs from the City of <hi>Madrid</hi> in <hi>Spain,</hi> we are advertized of the brutiſh and barbarous aſſaſſina<g ref="char:EOLhyphen"/>tion of that honeſt and ingenuous Gentleman, Maſter <hi>Aſcram,</hi> Reſident for the Common wealth of <hi>England</hi> with his Majeſty of <hi>Spain;</hi> which bloudy Tragedy, was acted by ſome deſperate perſons, as followeth; <hi>viz.</hi> Upon his landing at the Port of <hi>Santa Maria,</hi> ha<g ref="char:EOLhyphen"/>ving intelligence of divers threats uttered againſt him, a <hi>Spaniſh</hi> Colonel with a guard of 200 Horſe, was ap<g ref="char:EOLhyphen"/>pointed for his Convoy, by whom he was conduct<g ref="char:EOLhyphen"/>ed to <hi>Madrid,</hi> where he arrived the fifth of this Mo<g ref="char:EOLhyphen"/>neth, and that night lodged unfortunatly in a com<g ref="char:EOLhyphen"/>mon Inn, intending the next day to be better provi<g ref="char:EOLhyphen"/>ded. The day following, Maſter <hi>Fiſher</hi> (his Steward) went to ſeek a houſe, and having found one very con<g ref="char:EOLhyphen"/>venient, agreed for it; In the mean time, it happened as Mr. <hi>Aſcram</hi> and one Signeur <hi>Riba</hi> (his Interpreter) ſate alone at dinner, only with one ſervant attending them, the murtherers knocked at door, and pretend<g ref="char:EOLhyphen"/>ing to be friends, eaſily got acceſſe; there was ſix of them in number, three being habited like Merchants, the other like ſouldiers: Upon their approach, Mr. <hi>Aſcram</hi> roſe from the Table to ſalute them, but the foremoſt laid hold on his hair, and returned the ſalu<g ref="char:EOLhyphen"/>tation of <hi>Joab,</hi> ſtabbing him into the head; which his Interpreter perceiving, endevoured to eſcape, but was liſtewiſe ſtabbed in the Belly, and they both fell immediatly. The Aſſaſſinates were <hi>Engliſh,</hi> who poſt<g ref="char:EOLhyphen"/>ed for refuge to the <hi>Venetian</hi> Embaſſadors, but he ab<g ref="char:EOLhyphen"/>horring the fact, denied them entrance, ſo that they were conſtrained to take Sanctuary in the next Church; and being cloſely purſued (by command and Proclamation from the King of <hi>Spain</hi>) five of them
+<pb n="5" facs="tcp:165658:4"/>are laid in priſon to be made exemplary, and one eſca<g ref="char:EOLhyphen"/>ped. This execrable fact (with that of <hi>Doriſlaus</hi>) ren<g ref="char:EOLhyphen"/>ders that party odious to all Nations.</p>
+            <closer>
+               <dateline>
+                  <hi>Brill,</hi> 
+                  <date>the 16. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>An Abſtract from Scotland.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THe young King is expected within a day or two, (as many give out) but the people are divided, and the meaner ſort begin to ſee what ſlavery they live in under the great Laurds, ſo that there is great probability they may in time ſhake off thoſe ſhackles. Yet notwithſtanding, the Parliament of <hi>Scotland</hi> have publiſhed an Act for the raiſing of every fourth man; A Copy whereof followeth, <hi>viz.</hi>
+            </p>
+            <p>The States of Parliament now convened, taking in<g ref="char:EOLhyphen"/>to conſideration the good and ſervice of the Kingdom, and Shires thereof, they Ordered the Committees of War of every ſeveral Shire of the Kingdom, to make new rolls of all the ſenſible perſons, within each of their ſeveral Shires, and to cauſe the fourth man of the whole number of their ſenſible perſons, to be trained, armed, and formed in Companies, and made ready upon all occaſions for the publike ſervice, and good of the Kingdom and Shires, according to the rules and Acts formerly ſet down. And the Eſtates declare, that thoſe perſons who ſhall be inrolled, as the fourth man in the ſeverall Shires, by vertue of this Act, to the effect aforeſaid, ſhall no ways be employed
+<pb n="6" facs="tcp:165658:5"/>for recruiting of former Regiments; And ordains the Shires to have the nomination and Election of the Of<g ref="char:EOLhyphen"/>ficers of their ſeverall Companies, and Regiments to be made up of the fourth man in the ſaid Shires.</p>
+            <p>Which nomination and Election, the Eſtate Or<g ref="char:EOLhyphen"/>dains the Committees of War, of the ſeveral Shires to repreſent to the Committee of the Eſtates of Parlia<g ref="char:EOLhyphen"/>ment, to whom the Parliament hereby gives power to allow or diſallow of the ſame nomination and Ele<g ref="char:EOLhyphen"/>ction, as the Committee ſhall think fit, and to place others for ſuch as they ſhall not allow, for the good of the publike ſervice: And the Eſtates do further declare, that this preſent Act is always without pre<g ref="char:EOLhyphen"/>judice to any former Acts, made for the putting of the Kingdom in a poſture of defence, and ordaining all betwixt ſixty and ſixteen, to be trained and armed.</p>
+            <closer>
+               <hi>Subſcribed,</hi>
+               <signed>A. Gibſon, <hi>Cler. Regiſt.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
